@@ -10,6 +10,7 @@ public class ProductPersistenceApplication {
 		SpringApplication.run(ProductPersistenceApplication.class, args);
 		System.out.println("git");
 		System.out.println("git");
+		System.out.println("git demo");
 	}
 
 }
