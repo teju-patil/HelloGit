@@ -11,6 +11,7 @@ public class ProductPersistenceApplication {
 		System.out.println("git");
 		System.out.println("git");
 		System.out.println("git demo");
+		System.out.println("git demo");
 	}
 
 }
