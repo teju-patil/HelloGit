@@ -8,6 +8,8 @@ public class ProductPersistenceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductPersistenceApplication.class, args);
+		System.out.println("git");
+		System.out.println("git");
 	}
 
 }
